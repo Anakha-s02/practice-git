@@ -1,4 +1,4 @@
-let num=80;
+
 if(num>=90){
     console.log('A grade');
 }
