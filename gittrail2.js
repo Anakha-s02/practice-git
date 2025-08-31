@@ -8,9 +8,8 @@ else{
 
 
 let num=526479621
-if (num%2==0){
-    console.log(num+ ' is even');
-}
+if (num%2==0);
+   
 else{
     console.log(num+ ' is odd');
 }
